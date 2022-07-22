@@ -1,2 +1,2 @@
-# musicLOL
+# Lolbility
 Introduction
